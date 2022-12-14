@@ -1,4 +1,4 @@
-# Borderif Test
+# Borderify Test
 This is just a simple repo where I am completing the browser extension tutorial on [MDN web docs](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension).
 
 I barely know the fundamentals of HTML, CSS, and JavaScript so this will be an interesting little project.
